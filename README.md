@@ -35,7 +35,7 @@ To fully run the project locally, you need to configure environment variables.
 ### Install Latest Node.js (Skip if already installed)
 1. Visit: https://nodejs.org/en/download/
 2. Download and install Node.js
-3. Verify installation:
+3. Verify installation:-
    ```bash
    node -v
    npm -v
