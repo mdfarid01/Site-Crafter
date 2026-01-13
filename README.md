@@ -29,9 +29,7 @@ The project is deployed on **Vercel** and connected to a **custom domain**.
 To fully run the project locally, you need to configure environment variables.
 
 ---
-
 ## 🛠 Prerequisites
-
 ### Install Latest Node.js (Skip if already installed)
 1. Visit: https://nodejs.org/en/download/
 2. Download and install Node.js
