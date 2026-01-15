@@ -108,7 +108,7 @@ const Sidebar = ({isMenuOpen, project, setProject, isGenerating, setIsGenerating
                     return (
                         <div key={ver.id} className='w-4/5 mx-auto my-2 p-3 rounded-xl bg-gray-800 text-gray-100 shadow flex flex-col gap-2'>
                             <div className='text-xs font-medium'>
-                                code updated <br /> 
+                                code update <br /> 
                                 <span className='text-gray-500 text-xs font-normal'>
                                     {new Date(ver.timestamp).toLocaleString()}
                                 </span>
