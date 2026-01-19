@@ -26,7 +26,7 @@ Users can purchase credits, and AI functionality is powered using external APIs.
 
 ## 🌐 Live Deployment
 The project is deployed on **Vercel** and connected to a **custom domain**.  
-To fully run the project locally, you need to configure environment variables.
+To fully run the project locally and  you need to configure environment variables.
 
 ---
 ## 🛠 Prerequisites
