@@ -100,7 +100,7 @@ export const makeRevision = async (req: Request, res: Response) => {
                     You are an expert web developer. 
 
                     CRITICAL REQUIREMENTS:
-                    - Return ONLY the complete updated HTML code with the requested changes.
+                    - Return ONLY the complete updated Html code with the requested changes.
                     - Use Tailwind CSS for ALL styling (NO custom CSS).
                     - Use Tailwind utility classes for all styling changes.
                     - Include all JavaScript in <script> tags before closing </body>
